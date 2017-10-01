@@ -1,0 +1,38 @@
+a {
+  text-decoration: none; }
+
+li {
+  list-style: none;
+  text-decoration: none; }
+
+.inner {
+  width: 940px;
+  max-width: 100%;
+  margin: 0 auto; }
+
+#block-1 {
+  background: url(../images/first-bg.jpg) no-repeat;
+  background-size: cover;
+  height: 881px; }
+
+.welcome p.welcomes {
+  color: #fff;
+  font-size: 2.5em;
+  font-family: Arial;
+  text-align: center;
+  margin-top: 215px;
+  text-transform: uppercase;
+  margin-bottom: 20px; }
+
+.welcome p.nice {
+  font-weight: bold;
+  color: #fff;
+  font-size: 4.688em;
+  font-family: Arial;
+  text-align: center;
+  text-transform: uppercase; }
+
+.welcome p.button {
+  text-align: center;
+  cursor: pointer;
+  margin-top: 42px; }

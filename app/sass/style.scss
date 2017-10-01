@@ -1,0 +1,31 @@
+$text-decoration: none;
+$li-style: none;
+$a: none; 
+$width: 940px;
+$max-width: 100%; 
+$margin: 0 auto; 
+$background: url(../images/first-bg.jpg) no-repeat;
+$background-size: cover;
+$height-v: 881px;
+$color: #fff;
+$font-size-v: 2.500em;
+$font-family: Arial;
+$text-align: center;
+$margin-top-v: 215px;
+$text-transform: uppercase; 
+$margin-bottom-v: 20px;
+$font-weight: bold; 
+$font-size-v2: 4.688em; 
+$text-align: center; 
+$cursor: pointer;  
+$margin-top-v3: 42px;
+
+a{text-decoration: $text-decoration}
+li{list-style: $li-style; text-decoration: $text-decoration}
+.inner{width: $width; max-width: $max-width; margin: $margin}
+#block-1{background: $background; background-size: $background-size; height: $height-v}
+.welcome p.welcomes{color: $color; font-size: $font-size-v; font-family: $font-family; text-align: $text-align; margin-top: $margin-top-v;text-transform: $text-transform; margin-bottom: $margin-bottom-v}
+.welcome p.nice{font-weight: $font-weight;  color: $color; font-size: $font-size-v2; font-family: $font-family; text-align: $text-align; text-transform: $text-transform;}
+.welcome p.button{ text-align: $text-align; cursor: $cursor;  margin-top: $margin-top-v3}
+
+

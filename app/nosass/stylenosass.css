@@ -1,0 +1,60 @@
+#wrapper{overflow: hidden;}
+
+
+#block-2{height: 588px}
+.service{margin-top: 138px}
+p.service1{font-size: 2.500em; font-family: Arial; font-weight: bold; text-align: center; text-transform: uppercase; margin-bottom: 21px}
+p.service2{color: #777; font-size: 1em; font-family: Arial;  text-align: center;}
+.responsive{text-align: center;}
+.responsive img {margin-bottom: 25px}
+p.commerce {margin-bottom: 20px}
+p.responsiveclass {margin-bottom: 20px; font-weight: bold;}
+p.security {margin-bottom: 20px; font-weight: bold; }
+p.service2{margin-bottom: 79px}
+p.commerce{font-size: 1.125em; font-weight: bold; font-family: Arial;}
+
+p.commercespan{font-size: 0.875em; font-family: Arial; color: #777; }
+p.responsivespan{font-size: 0.875em; font-family: Arial; color: #777; }
+p.securityspan{font-size: 0.875em; font-family: Arial; color: #777; }
+
+#block-3{height: 816px; background: #f7f7f7; }
+.portfolio{text-align: center; position: relative; padding-top: 121px}
+p.our{  font-size: 2.500em; font-family: Arial; font-weight: bold; text-align: center; text-transform: uppercase; }
+p.proin{color: #777;  font-size: 1em; font-family: Arial;  text-align: center;}
+.img { text-align: center; margin-top: 80px; }
+.clear{clear: both; height: 1px}
+#block-4{height: 1526px; margin-top: }
+p.aboutus{  font-size: 2.500em; font-family: Arial; font-weight: bold; text-align: center; text-transform: uppercase; }
+p.proin{color: #777;  font-size: 1em; font-family: Arial;  text-align: center;}
+.about{text-align: center; position: relative; margin-top: 136px}
+.for-block{width: 59.617021%; text-align: center; margin-top: 96px;    margin-left: 0.5%; }
+.for-block2{width: 53.61702127659574%; margin-top: 96px; text-align: center; float: right;     margin-right: 5%;}
+.for-block3{width: 53.61702127659574%; margin-top: 96px; text-align: center; float: left;     margin-left: 8.404255319148936%;}
+.for-block4{width: 53.61702127659574%; margin-top: 96px; text-align: center; float: right ;     margin-right: 3%;}
+
+
+.img3{margin-left: 5px}
+
+
+.for-block img {  float: right; }
+.for-block2 img {  float: left;  }
+.for-block3 img {  float: right; }
+.for-block4 img {  float: left;  }
+
+p.july{color: #222222; font-size: 1.125em; font-weight: bold; font-family: Arial; }
+p.humb{color: #222222; font-size: 1.125em; font-weight: bold; font-family: Arial; }
+
+footer{text-align: center; }
+@media screen and (max-width: 768px) {
+  #block-1{height: 900px}
+  .welcome{margin-top: -100px}
+  p.commercespan{margin-bottom: 50px}
+  p.responsivespan{margin-bottom: 50px}
+  #block-2{height: 950px}
+  .img img { margin-bottom: 40px}
+  #block-3{height: 1350px}
+  .for-block img {float: left; margin-left: 20px}
+}
+@media screen and (max-width: 1024px) {
+   #block-3{height: 1350px}
+}
